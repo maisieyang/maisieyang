@@ -129,4 +129,4 @@ I share what I’m building, thinking, and learning — not just results, but th
 ## 🤝 Connect | 联系我
 
 - X (Twitter): [your link]
-- Blog: [your link]
+- Blog: [https://bit.ly/maisie-world]
